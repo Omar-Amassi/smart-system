@@ -1,15 +1,24 @@
 Smart University Appointment Management System - Backend
 
 Install
+
 npm install
+
 Run
+
 npm run dev
+
 Database
+
 SQLite database will be created automatically.
 
+
 Main APIs
+
 Auth
+
 POST /api/auth/register
+
 POST /api/auth/login
 Appointments
 GET /api/appointments
